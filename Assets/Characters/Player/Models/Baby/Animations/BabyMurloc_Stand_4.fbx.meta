@@ -1,0 +1,245 @@
+fileFormatVersion: 2
+guid: ddad03b847516fa4b9dc5e0aed50c21f
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: creature/murloc/babymurloc_bone_0
+    100004: creature/murloc/babymurloc_bone_1
+    100006: creature/murloc/babymurloc_bone_10
+    100008: creature/murloc/babymurloc_bone_11
+    100010: creature/murloc/babymurloc_bone_12
+    100012: creature/murloc/babymurloc_bone_13
+    100014: creature/murloc/babymurloc_bone_14
+    100016: creature/murloc/babymurloc_bone_15
+    100018: creature/murloc/babymurloc_bone_16
+    100020: creature/murloc/babymurloc_bone_17
+    100022: creature/murloc/babymurloc_bone_18
+    100024: creature/murloc/babymurloc_bone_19
+    100026: creature/murloc/babymurloc_bone_2
+    100028: creature/murloc/babymurloc_bone_20
+    100030: creature/murloc/babymurloc_bone_21
+    100032: creature/murloc/babymurloc_bone_22
+    100034: creature/murloc/babymurloc_bone_23
+    100036: creature/murloc/babymurloc_bone_24
+    100038: creature/murloc/babymurloc_bone_25
+    100040: creature/murloc/babymurloc_bone_26
+    100042: creature/murloc/babymurloc_bone_27
+    100044: creature/murloc/babymurloc_bone_28
+    100046: creature/murloc/babymurloc_bone_29
+    100048: creature/murloc/babymurloc_bone_3
+    100050: creature/murloc/babymurloc_bone_30
+    100052: creature/murloc/babymurloc_bone_31
+    100054: creature/murloc/babymurloc_bone_32
+    100056: creature/murloc/babymurloc_bone_33
+    100058: creature/murloc/babymurloc_bone_34
+    100060: creature/murloc/babymurloc_bone_35
+    100062: creature/murloc/babymurloc_bone_36
+    100064: creature/murloc/babymurloc_bone_37
+    100066: creature/murloc/babymurloc_bone_38
+    100068: creature/murloc/babymurloc_bone_39
+    100070: creature/murloc/babymurloc_bone_4
+    100072: creature/murloc/babymurloc_bone_40
+    100074: creature/murloc/babymurloc_bone_41
+    100076: creature/murloc/babymurloc_bone_42
+    100078: creature/murloc/babymurloc_bone_43
+    100080: creature/murloc/babymurloc_bone_44
+    100082: creature/murloc/babymurloc_bone_45
+    100084: creature/murloc/babymurloc_bone_46
+    100086: creature/murloc/babymurloc_bone_47
+    100088: creature/murloc/babymurloc_bone_48
+    100090: creature/murloc/babymurloc_bone_49
+    100092: creature/murloc/babymurloc_bone_5
+    100094: creature/murloc/babymurloc_bone_50
+    100096: creature/murloc/babymurloc_bone_51
+    100098: creature/murloc/babymurloc_bone_52
+    100100: creature/murloc/babymurloc_bone_53
+    100102: creature/murloc/babymurloc_bone_54
+    100104: creature/murloc/babymurloc_bone_55
+    100106: creature/murloc/babymurloc_bone_56
+    100108: creature/murloc/babymurloc_bone_57
+    100110: creature/murloc/babymurloc_bone_58
+    100112: creature/murloc/babymurloc_bone_59
+    100114: creature/murloc/babymurloc_bone_6
+    100116: creature/murloc/babymurloc_bone_60
+    100118: creature/murloc/babymurloc_bone_61
+    100120: creature/murloc/babymurloc_bone_7
+    100122: creature/murloc/babymurloc_bone_8
+    100124: creature/murloc/babymurloc_bone_9
+    100126: creature/murloc/babymurloc_rig
+    400000: //RootNode
+    400002: creature/murloc/babymurloc_bone_0
+    400004: creature/murloc/babymurloc_bone_1
+    400006: creature/murloc/babymurloc_bone_10
+    400008: creature/murloc/babymurloc_bone_11
+    400010: creature/murloc/babymurloc_bone_12
+    400012: creature/murloc/babymurloc_bone_13
+    400014: creature/murloc/babymurloc_bone_14
+    400016: creature/murloc/babymurloc_bone_15
+    400018: creature/murloc/babymurloc_bone_16
+    400020: creature/murloc/babymurloc_bone_17
+    400022: creature/murloc/babymurloc_bone_18
+    400024: creature/murloc/babymurloc_bone_19
+    400026: creature/murloc/babymurloc_bone_2
+    400028: creature/murloc/babymurloc_bone_20
+    400030: creature/murloc/babymurloc_bone_21
+    400032: creature/murloc/babymurloc_bone_22
+    400034: creature/murloc/babymurloc_bone_23
+    400036: creature/murloc/babymurloc_bone_24
+    400038: creature/murloc/babymurloc_bone_25
+    400040: creature/murloc/babymurloc_bone_26
+    400042: creature/murloc/babymurloc_bone_27
+    400044: creature/murloc/babymurloc_bone_28
+    400046: creature/murloc/babymurloc_bone_29
+    400048: creature/murloc/babymurloc_bone_3
+    400050: creature/murloc/babymurloc_bone_30
+    400052: creature/murloc/babymurloc_bone_31
+    400054: creature/murloc/babymurloc_bone_32
+    400056: creature/murloc/babymurloc_bone_33
+    400058: creature/murloc/babymurloc_bone_34
+    400060: creature/murloc/babymurloc_bone_35
+    400062: creature/murloc/babymurloc_bone_36
+    400064: creature/murloc/babymurloc_bone_37
+    400066: creature/murloc/babymurloc_bone_38
+    400068: creature/murloc/babymurloc_bone_39
+    400070: creature/murloc/babymurloc_bone_4
+    400072: creature/murloc/babymurloc_bone_40
+    400074: creature/murloc/babymurloc_bone_41
+    400076: creature/murloc/babymurloc_bone_42
+    400078: creature/murloc/babymurloc_bone_43
+    400080: creature/murloc/babymurloc_bone_44
+    400082: creature/murloc/babymurloc_bone_45
+    400084: creature/murloc/babymurloc_bone_46
+    400086: creature/murloc/babymurloc_bone_47
+    400088: creature/murloc/babymurloc_bone_48
+    400090: creature/murloc/babymurloc_bone_49
+    400092: creature/murloc/babymurloc_bone_5
+    400094: creature/murloc/babymurloc_bone_50
+    400096: creature/murloc/babymurloc_bone_51
+    400098: creature/murloc/babymurloc_bone_52
+    400100: creature/murloc/babymurloc_bone_53
+    400102: creature/murloc/babymurloc_bone_54
+    400104: creature/murloc/babymurloc_bone_55
+    400106: creature/murloc/babymurloc_bone_56
+    400108: creature/murloc/babymurloc_bone_57
+    400110: creature/murloc/babymurloc_bone_58
+    400112: creature/murloc/babymurloc_bone_59
+    400114: creature/murloc/babymurloc_bone_6
+    400116: creature/murloc/babymurloc_bone_60
+    400118: creature/murloc/babymurloc_bone_61
+    400120: creature/murloc/babymurloc_bone_7
+    400122: creature/murloc/babymurloc_bone_8
+    400124: creature/murloc/babymurloc_bone_9
+    400126: creature/murloc/babymurloc_rig
+    7400000: Stand [4]
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Stand [4]
+      takeName: Stand [4]
+      firstFrame: 0
+      lastFrame: 79
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
